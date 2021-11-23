@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div {
+    padding: 50px;
+    width: 800px;
+    height: 100vh;
+    border-style: solid;
+    border-color: rgb(3, 0, 156);
+    border-width: 1px;
+}
